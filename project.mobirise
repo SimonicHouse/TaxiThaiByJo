@@ -48,10 +48,11 @@
       "settings": {
         "main": true,
         "title": "Taxi Thai by Jo",
-        "meta_descr": "",
+        "meta_descr": "บริการรถรับ-ส่งสนามบิน สุวรรณภูมิ ดอนเมือง อู่ตะเภา และตามสถานที่ต่างๆทั่วประเทศ",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/taxi%20logo-193x233.jpg"
       },
       "components": [
         {
